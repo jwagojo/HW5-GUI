@@ -6,7 +6,7 @@ Email: johnwesley_agojo@student.uml.edu
 
 - GitHub Repository: https://github.com/jwagojo/HW5-GUI
 
-Github Link: 
+Github Link: https://jwagojo.github.io/HW5-GUI/
 
 ### Extra Features Implementation
 
@@ -35,7 +35,7 @@ Pressing this button will do a complete game reset.
 
 ### Recall Tile
 
-Allows the user to undo their last tile placement on the board, so that if the user accidentally places a tile in the wrong spot, the tile is then recalled back to the rack.game balance.
+Allows the user to undo their last tile placement on the board, so that if the user accidentally places a tile in the wrong spot, the tile is then recalled back to the rack.
 
 ### Refresh Tiles
 
@@ -43,7 +43,7 @@ Pressing this button will refreshes the rack with new tiles.
 
 ### Garbage Bin
 
-Dragging tiles to the bin will discard those tiles.
+Dragging tiles to the bin will discard the tiles.
 
 # status
 
